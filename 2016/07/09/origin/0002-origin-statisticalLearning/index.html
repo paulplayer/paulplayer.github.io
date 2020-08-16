@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.9.0">
+    <meta charset="utf-8">
+    
+    <title>Beyesian Signal Processing | 谦和·乐进</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+        <meta name="keywords" content="Writing,Theoretical,Statistic Learning,Machine Learning">
+    
+    <meta name="description" content="学会不易，学成更难;做一时容易，做一辈子难。学成是十年磨一剑，坚守则是一生炼一心。   ——写在前面，致自己">
+<meta name="keywords" content="Writing,Theoretical,Statistic Learning,Machine Learning">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Beyesian Signal Processing">
+<meta property="og:url" content="https://blog.paulplayer.club/2016/07/09/origin/0002-origin-statisticalLearning/index.html">
+<meta property="og:site_name" content="谦和·乐进">
+<meta property="og:description" content="学会不易，学成更难;做一时容易，做一辈子难。学成是十年磨一剑，坚守则是一生炼一心。   ——写在前面，致自己">
+<meta property="og:locale" content="zh-CN">
+<meta property="og:image" content="https://blog.paulplayer.club/gallery/origin/0002-statiscalLearning.jpg">
+<meta property="og:updated_time" content="2020-06-04T13:53:33.931Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Beyesian Signal Processing">
+<meta name="twitter:description" content="学会不易，学成更难;做一时容易，做一辈子难。学成是十年磨一剑，坚守则是一生炼一心。   ——写在前面，致自己">
+<meta name="twitter:image" content="https://blog.paulplayer.club/gallery/origin/0002-statiscalLearning.jpg">
+    
+
+    
+        <link rel="alternate" href="/atom.xml" title="谦和·乐进" type="application/atom+xml">
+    
+
+    
+        <link rel="icon" href="/css/images/favicon.ico">
+    
+
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/vendor/titillium-web/styles.css">
+    <link rel="stylesheet" href="/vendor/source-code-pro/styles.css">
+
+    <link rel="stylesheet" href="/css/style.css">
+
+    <script src="/vendor/jquery/2.0.3/jquery.min.js"></script>
+    
+    
+        <link rel="stylesheet" href="/vendor/fancybox/jquery.fancybox.css">
+    
+    
+        <link rel="stylesheet" href="/vendor/scrollLoading/style.css">
+    
+    
+    
+
+</head>
+</html>
+<body>
+    <div id="wrap">
+        <header id="header">
+    <div id="header-outer" class="outer">
+        <div class="container">
+            <div class="container-inner">
+                <div id="header-title">
+                    <h1 class="logo-wrap">
+                        <a href="/" class="logo"></a>
+                    </h1>
+                    
+                        <h2 class="subtitle-wrap">
+                            <p class="subtitle">爱读书，爱旅行，爱创作。</p>
+                        </h2>
+                    
+                </div>
+                <div id="header-inner" class="nav-container">
+                    <a id="main-nav-toggle" class="nav-icon fa fa-bars"></a>
+                    <div class="nav-container-inner">
+                        <ul id="main-nav">
+                            
+                                <li class="main-nav-list-item" >
+                                    <a class="main-nav-list-link" href="/">主页</a>
+                                </li>
+                            
+                                        <ul class="main-nav-list"><li class="main-nav-list-item"><a class="main-nav-list-link" href="/categories/原创/">原创</a></li><li class="main-nav-list-item"><a class="main-nav-list-link" href="/categories/旅行/">旅行</a></li><li class="main-nav-list-item"><a class="main-nav-list-link" href="/categories/读书/">读书</a></li></ul>
+                                    
+                                <li class="main-nav-list-item" >
+                                    <a class="main-nav-list-link" href="/about/index.html">关于</a>
+                                </li>
+                            
+                        </ul>
+                        <nav id="sub-nav">
+                            <div id="search-form-wrap">
+
+    <form class="search-form">
+        <input type="text" class="ins-search-input search-form-input" placeholder="搜索" />
+        <button type="submit" class="search-form-submit"></button>
+    </form>
+    <div class="ins-search">
+    <div class="ins-search-mask"></div>
+    <div class="ins-search-container">
+        <div class="ins-input-wrapper">
+            <input type="text" class="ins-search-input" placeholder="想要查找什么..." />
+            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: '文章',
+            PAGES: '页面',
+            CATEGORIES: '分类',
+            TAGS: '标签',
+            UNTITLED: '(未命名)',
+        },
+        ROOT_URL: '/',
+        CONTENT_URL: '/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+<script src="/js/insight.js"></script>
+
+</div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+        <div class="container">
+            <div class="main-body container-inner">
+                <div class="main-body-inner">
+                    <section id="main">
+                        <div class="main-body-header">
+    <h1 class="header">
+    
+    <a class="page-title-link" href="/categories/原创/">原创</a>
+    </h1>
+</div>
+                        <div class="main-body-content">
+                            <article id="post-origin/0002-origin-statisticalLearning" class="article article-single article-type-post"
+    itemscope itemprop="blogPost">
+    <div class="article-inner">
+        
+        <header class="article-header">
+            
+    
+        <h1 class="article-title" itemprop="name">
+        Beyesian Signal Processing
+        </h1>
+    
+
+        </header>
+        
+        
+        <div class="article-subtitle">
+            <a href="/2016/07/09/origin/0002-origin-statisticalLearning/" class="article-date">
+    <time datetime="2016-07-09T07:08:27.000Z" itemprop="datePublished">2016-07-09</time>
+</a>
+            
+    <ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Machine-Learning/">Machine Learning</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Statistic-Learning/">Statistic Learning</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Theoretical/">Theoretical</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Writing/">Writing</a></li></ul>
+
+        </div>
+        
+        <div class="article-entry" itemprop="articleBody">
+            <blockquote><p>学会不易，学成更难;做一时容易，做一辈子难。学成是十年磨一剑，坚守则是一生炼一心。  </p>
+<footer><strong>——写在前面，致自己</strong></footer></blockquote> 
+
+<a id="more"></a>
+
+<h2 id="插图"><a href="#插图" class="headerlink" title="插图"></a>插图</h2><img src="/gallery/origin/0002-statiscalLearning.jpg" width="500" title="数据图表">
+<p align="center"><b>Learning from Data</b></p>
+
+<hr>
+<h1 id="Beyesian-Signal-Processing-Learning"><a href="#Beyesian-Signal-Processing-Learning" class="headerlink" title="Beyesian Signal Processing Learning"></a>Beyesian Signal Processing Learning</h1><p>不知不觉，工作也有小半年了，从学校出来的这一段日子里，虽然也是整天忙碌着，但始终没有碰过学术，搞过理论，似乎潜意识里，就告诉自己，既然选择了工作，学术就已经离自己远去。</p>
+<p>然而随着工作环境的熟悉，业务上事情处理起来，也由忙碌变得闲暇，可以自由支配的时间也越来越多。毕竟是在研究所里工作，身边的同志也都有着自己的研究方向，所以慢慢的又回归了自己比较熟悉的数理统计方向，也发现自己对于数据处理的新理论新方法倍感兴趣。</p>
+<p>再学统计分析，心态就有了很大的不同，没有了一定要学好的压力，单纯的凭着兴趣去看一些理论方法，反而也颇有乐趣。正所谓，学会不易，学成更难;做一时容易，做一辈子难。学成是十年磨一剑，坚守则是一生炼一心。 </p>
+<p>之前买了James V. Candy的《Beyesian Signal Processing》一书，也一直没有看过，只是用到的时候从里面翻出来一点新颖的模型，堆上去些项目中要用的数据，然后乱搞一通，好在是自己有着那么股灵感和好运气，每次结果都还差强人意。然而这次细细看看了两章之后，发现虽然是2010年出版的书，写的理论方法很系统也比较新，而且出乎意料的，除了英语文字上的理解困难外，每个理论都循序渐进的介绍，比好多中文教程都讲得清晰，讲得理论深度高的多。这里我把本书的简介和封面放出来，需要的朋友可以自行购买。</p>
+<img src="/gallery/origin/0002-bayesianSignalProcessing.jpg" width="300" title="Bayesian Signal Processing, Classical, Modern, and Particle Filtering Methods">
+<p align="center"><b>Bayesian Signal Processing</b></p>
+
+<p>New Bayesian approach helps you solve tough problems in signal processing with ease Signal processing is based on this fundamental concept—the extraction of critical information from noisy, uncertain data. Most techniques rely on underlying Gaussian assumptions for a solution, but what happens when these assumptions are erroneous? Bayesian techniques circumvent this limitation by offering a completely different approach that can easily incorporate non-Gaussian and nonlinear processes along with all of the usual methods currently available. This text enables readers to fully exploit the many advantages of the “Bayesian approach” to model-based signal processing. It clearly demonstrates the features of this powerful approach compared to the pure statistical methods found in other texts. Readers will discover how easily and effectively the Bayesian approach, coupled with the hierarchy of physics-based models developed throughout, can be applied to signal processing problems that previously seemed unsolvable. Bayesian Signal Processing features the latest generation of processors (particle filters) that have been enabled by the advent of high-speed/high-throughput computers. The Bayesian approach is uniformly developed in this book’s algorithms, examples, applications, and case studies. Throughout this book, the emphasis is on nonlinear/non-Gaussian problems; however, some classical techniques (e.g. Kalman filters, unscented Kalman filters, Gaussian sums, grid-based filters, et al) are included to enable readers familiar with those methods to draw parallels between the two approaches. Special features include: Unified Bayesian treatment starting from the basics (Bayes’s rule) to the more advanced (Monte Carlo sampling), evolving to the next-generation techniques (sequential Monte Carlo sampling) Incorporates “classical” Kalman filtering for linear, linearized, and nonlinear systems; “modern” unscented Kalman filters; and the “next-generation” Bayesian particle filters Examples illustrate how theory can be applied directly to a variety of processing problems Case studies demonstrate how the Bayesian approach solves real-world problems in practice MATLAB notes at the end of each chapter help readers solve complex problems using readily available software commands and point out software packages available Problem sets test readers’ knowledge and help them put their new skills into practice The basic Bayesian approach is emphasized throughout this text in order to enable the processor to rethink the approach to formulating and solving signal processing problems from the Bayesian perspective. This text brings readers from the classical methods of model-based signal processing to the next generation of processors that will clearly dominate the future of signal processing for years to come. With its many illustrations demonstrating the applicability of the Bayesian approach to real-world problems in signal processing, this text is essential for all students, scientists, and engineers who investigate and apply signal processing to their everyday problems.</p>
+
+        </div>
+        <footer class="article-footer">
+            
+
+    <div class="bdsharebuttonbox">
+    <a href="#" class="bds_more" data-cmd="more">分享到：</a>
+    <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信">微信</a>
+    <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博">新浪微博</a>
+    <a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博">腾讯微博</a>
+    <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间">QQ空间</a>
+    <!-- <a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网">人人网</a> -->
+</div>
+<script>
+    window._bd_share_config = { "common": { "bdSnsKey": {}, "bdText": "", "bdMini": "2", "bdMiniList": false, "bdPic": "", "bdStyle": "0", "bdSize": "16" }, "share": { "bdSize": 16 } }; with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'https://bdimg.share.dt27.org/share.js?v=89860593.js?cdnversion=' + ~(-new Date() / 36e5)];
+</script>
+<style>
+    .bdshare_popup_box {
+        border-radius: 4px;
+        border: #e1e1e1 solid 1px;
+    }
+
+    .bdshare-button-style0-16 a,
+    .bdshare-button-style0-16 .bds_more {
+        padding-left: 20px;
+        margin: 6px 10px 6px 0;
+    }
+
+    .bdshare_dialog_list a,
+    .bdshare_popup_list a,
+    .bdshare_popup_bottom a {
+        font-family: 'Microsoft Yahei';
+    }
+
+    .bdshare_popup_top {
+        display: none;
+    }
+
+    .bdshare_popup_bottom {
+        height: auto;
+        padding: 5px;
+    }
+</style>
+
+
+
+            <span id="busuanzi_container_page_pv"><br>本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
+        </footer>
+    </div>
+</article>
+
+    <section id="comments">
+    
+        
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+
+    
+    </section>
+
+                        </div>
+                    </section>
+                    <aside id="sidebar">
+    <a class="sidebar-toggle" title="Expand Sidebar"><i class="toggle icon"></i></a>
+    <div class="sidebar-top">
+        <p>关注我 :</p>
+        <ul class="social-links">
+            
+                
+                <li>
+                    <a class="social-tooltip" title="weibo" href="https://weibo.com/paulplayer" target="_blank">
+                        <i class="icon fa fa-weibo"></i>
+                    </a>
+                </li>
+                
+            
+                
+                <li>
+                    <a class="social-tooltip" title="github" href="https://github.com/paulplayer" target="_blank">
+                        <i class="icon fa fa-github"></i>
+                    </a>
+                </li>
+                
+            
+                
+                <li>
+                    <a class="social-tooltip" title="rss" href="/atom.xml" target="_blank">
+                        <i class="icon fa fa-rss"></i>
+                    </a>
+                </li>
+                
+            
+        </ul>
+    </div>
+    
+        
+<nav id="article-nav">
+    
+        <a href="/2016/07/23/origin/0003-origin-openWDA/" id="article-nav-newer" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">下一篇</strong>
+        <p class="article-nav-title">
+        
+            Open Wireless Display Adapter
+        
+        </p>
+        <i class="icon fa fa-chevron-right" id="icon-chevron-right"></i>
+    </a>
+    
+    
+        <a href="/2016/06/27/book/0002-book-financialReference/" id="article-nav-older" class="article-nav-link-wrap">
+        <strong class="article-nav-caption">上一篇</strong>
+        <p class="article-nav-title">金融类书籍推荐</p>
+        <i class="icon fa fa-chevron-left" id="icon-chevron-left"></i>
+        </a>
+    
+</nav>
+
+    
+    <div class="widgets-container">
+        
+            
+                
+    <div class="widget-wrap">
+        <h3 class="widget-title">最新文章</h3>
+        <div class="widget">
+            <ul id="recent-post" class="">
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2020/05/12/book/0040-book-howGoogleAmazonMakeProduct/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/gallery/book/0040-googleAndAmazonDoingProducts.jpeg)" alt="《谷歌和亚马逊如何做产品》" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/读书/">读书</a></p>
+                            <p class="item-title"><a href="/2020/05/12/book/0040-book-howGoogleAmazonMakeProduct/" class="title">《谷歌和亚马逊如何做产品》</a></p>
+                            <p class="item-date"><time datetime="2020-05-12T05:14:00.000Z" itemprop="datePublished">2020-05-12</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2020/04/13/book/0039-book-dontMakeMeThink/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/gallery/book/0039-doNotMakeMeThink.jpeg)" alt="《Don&#39;t Make Me Think》" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/读书/">读书</a></p>
+                            <p class="item-title"><a href="/2020/04/13/book/0039-book-dontMakeMeThink/" class="title">《Don&#39;t Make Me Think》</a></p>
+                            <p class="item-date"><time datetime="2020-04-13T11:22:17.000Z" itemprop="datePublished">2020-04-13</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2020/03/01/book/0038-book-yingXiao4/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/gallery/book/0038-yingXiao4.png)" alt="《营销4.0》" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/读书/">读书</a></p>
+                            <p class="item-title"><a href="/2020/03/01/book/0038-book-yingXiao4/" class="title">《营销4.0》</a></p>
+                            <p class="item-date"><time datetime="2020-03-01T11:30:17.000Z" itemprop="datePublished">2020-03-01</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2020/01/18/book/0037-book-jiangJieShiZhuan/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/gallery/book/0037-jiangJieShiZhuan.jpeg)" alt="《蒋介石传》" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/读书/">读书</a></p>
+                            <p class="item-title"><a href="/2020/01/18/book/0037-book-jiangJieShiZhuan/" class="title">《蒋介石传》</a></p>
+                            <p class="item-date"><time datetime="2020-01-18T13:22:33.000Z" itemprop="datePublished">2020-01-18</time></p>
+                        </div>
+                    </li>
+                
+                    <li>
+                        
+                        <div class="item-thumbnail">
+                            <a href="/2020/01/11/trip/0014-trip-chongQing/" class="thumbnail">
+    
+    
+        <span style="background-image:url(/gallery/trip/0014-hongYaDong.jpg)" alt="重庆" class="thumbnail-image"></span>
+    
+    
+</a>
+
+                        </div>
+                        
+                        <div class="item-inner">
+                            <p class="item-category"><a class="article-category-link" href="/categories/旅行/">旅行</a></p>
+                            <p class="item-title"><a href="/2020/01/11/trip/0014-trip-chongQing/" class="title">重庆</a></p>
+                            <p class="item-date"><time datetime="2020-01-11T13:26:32.000Z" itemprop="datePublished">2020-01-11</time></p>
+                        </div>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+
+            
+                
+    <div class="widget-wrap widget-list">
+        <h3 class="widget-title">分类</h3>
+        <div class="widget">
+            <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/原创/">原创</a><span class="category-list-count">15</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/旅行/">旅行</a><span class="category-list-count">14</span></li><li class="category-list-item"><a class="category-list-link" href="/categories/读书/">读书</a><span class="category-list-count">40</span></li></ul>
+        </div>
+    </div>
+
+
+            
+                
+    <div class="widget-wrap widget-list">
+        <h3 class="widget-title">归档</h3>
+        <div class="widget">
+            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/05/">五月 2020</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/04/">四月 2020</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/03/">三月 2020</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/01/">一月 2020</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/12/">十二月 2019</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/11/">十一月 2019</a><span class="archive-list-count">10</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/10/">十月 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/05/">五月 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/03/">三月 2019</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/01/">一月 2019</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/12/">十二月 2018</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/10/">十月 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/09/">九月 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/07/">七月 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/05/">五月 2018</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/03/">三月 2018</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/01/">一月 2018</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/12/">十二月 2017</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/10/">十月 2017</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/09/">九月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/05/">五月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/03/">三月 2017</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/12/">十二月 2016</a><span class="archive-list-count">3</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">十一月 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/10/">十月 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/09/">九月 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/08/">八月 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/07/">七月 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">六月 2016</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">五月 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/12/">十二月 2015</a><span class="archive-list-count">2</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2015/10/">十月 2015</a><span class="archive-list-count">1</span></li></ul>
+        </div>
+    </div>
+
+
+            
+                
+    <div class="widget-wrap widget-float">
+        <h3 class="widget-title">标签云</h3>
+        <div class="widget tagcloud">
+            <a href="/tags/BeiJing/" style="font-size: 10.91px;">BeiJing</a> <a href="/tags/Big-Data/" style="font-size: 10px;">Big Data</a> <a href="/tags/Biography/" style="font-size: 10.91px;">Biography</a> <a href="/tags/China/" style="font-size: 10.91px;">China</a> <a href="/tags/Cloud-Computing/" style="font-size: 10px;">Cloud Computing</a> <a href="/tags/Code/" style="font-size: 10px;">Code</a> <a href="/tags/Dairy/" style="font-size: 10.91px;">Dairy</a> <a href="/tags/Economy/" style="font-size: 12.73px;">Economy</a> <a href="/tags/Exotic/" style="font-size: 10px;">Exotic</a> <a href="/tags/Experience/" style="font-size: 18.18px;">Experience</a> <a href="/tags/Family/" style="font-size: 10px;">Family</a> <a href="/tags/Feeling/" style="font-size: 17.27px;">Feeling</a> <a href="/tags/Finacial-Knowledge/" style="font-size: 10px;">Finacial Knowledge</a> <a href="/tags/Fintech/" style="font-size: 10.91px;">Fintech</a> <a href="/tags/HighTech/" style="font-size: 10px;">HighTech</a> <a href="/tags/Hightech/" style="font-size: 11.82px;">Hightech</a> <a href="/tags/History/" style="font-size: 10.91px;">History</a> <a href="/tags/Humanity/" style="font-size: 10.91px;">Humanity</a> <a href="/tags/Jobs/" style="font-size: 11.82px;">Jobs</a> <a href="/tags/Life/" style="font-size: 10px;">Life</a> <a href="/tags/LifeStyle/" style="font-size: 10.91px;">LifeStyle</a> <a href="/tags/Machine-Learning/" style="font-size: 10px;">Machine Learning</a> <a href="/tags/Management/" style="font-size: 11.82px;">Management</a> <a href="/tags/MarTech/" style="font-size: 10px;">MarTech</a> <a href="/tags/Movie/" style="font-size: 10.91px;">Movie</a> <a href="/tags/Network/" style="font-size: 12.73px;">Network</a> <a href="/tags/OSAHS/" style="font-size: 10px;">OSAHS</a> <a href="/tags/Open-Source-Software/" style="font-size: 11.82px;">Open Source Software</a> <a href="/tags/OpenSource/" style="font-size: 10px;">OpenSource</a> <a href="/tags/OpenWDA/" style="font-size: 10px;">OpenWDA</a> <a href="/tags/Philosophy/" style="font-size: 10px;">Philosophy</a> <a href="/tags/Product/" style="font-size: 15.45px;">Product</a> <a href="/tags/Profession/" style="font-size: 11.82px;">Profession</a> <a href="/tags/Project/" style="font-size: 11.82px;">Project</a> <a href="/tags/Psychology/" style="font-size: 11.82px;">Psychology</a> <a href="/tags/Reading/" style="font-size: 20px;">Reading</a> <a href="/tags/Sale/" style="font-size: 10px;">Sale</a> <a href="/tags/Science/" style="font-size: 10px;">Science</a> <a href="/tags/Skill/" style="font-size: 19.09px;">Skill</a> <a href="/tags/Start-Up/" style="font-size: 10px;">Start Up</a> <a href="/tags/Statistic-Learning/" style="font-size: 10px;">Statistic Learning</a> <a href="/tags/Story/" style="font-size: 13.64px;">Story</a> <a href="/tags/Technology/" style="font-size: 10px;">Technology</a> <a href="/tags/Theoretical/" style="font-size: 14.55px;">Theoretical</a> <a href="/tags/Traveling/" style="font-size: 16.36px;">Traveling</a> <a href="/tags/Writing/" style="font-size: 17.27px;">Writing</a> <a href="/tags/XinJiang/" style="font-size: 10.91px;">XinJiang</a> <a href="/tags/YunNan/" style="font-size: 10.91px;">YunNan</a> <a href="/tags/xStorage/" style="font-size: 10px;">xStorage</a>
+        </div>
+    </div>
+
+
+            
+                
+    <div class="widget-wrap widget-list">
+        <h3 class="widget-title">链接</h3>
+        <div class="widget">
+            <ul>
+                
+                    <li>
+                        <a href="http://hexo.io">Hexo 官方网站</a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+
+
+            
+        
+    </div>
+</aside>
+                </div>
+            </div>
+        </div>
+        <footer id="footer">
+    <div class="container">
+        <div class="container-inner">
+            <a id="back-to-top" href="javascript:;"><i class="icon fa fa-angle-up"></i></a>
+            <div class="credit">
+                <h1 class="logo-wrap">
+                    <a href="/" class="logo"></a>
+                </h1>
+                <p>谦和·乐进 &copy; 2020
+                    <span id="busuanzi_container_site_pv">
+                        , 本站总访问量<span id="busuanzi_value_site_pv"></span>次
+                    </span></p>
+                <p>Authored by <a href="/about/index.html" target="_blank">Pengle Zhang, paulplayergg@gmail.com</a></p>
+                <!-- <p>Powered by <a href="//hexo.io/" target="_blank">Hexo</a>, Theme by <a href="//github.com/ppoffice" target="_blank">PPOffice</a></p> -->
+            </div>
+        </div>
+    </div>
+</footer>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+        
+    
+    <script>
+    var disqus_shortname = 'blog-paulplayer-com.disqus.com';
+    
+    
+    var disqus_url = 'https://blog.paulplayer.club/2016/07/09/origin/0002-origin-statisticalLearning/';
+    
+    (function() {
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    </script>
+
+
+
+    
+        <script src="/vendor/fancybox/jquery.fancybox.pack.js"></script>
+    
+
+    
+        <script src="/vendor/scrollLoading/jquery.scrollLoading.js"></script>
+        <script src="/vendor/scrollLoading/main.js"></script>
+    
+
+
+<!-- Custom Scripts -->
+<script src="/js/main.js"></script>
+
+    </div>
+</body>
+</html>
