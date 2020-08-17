@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.paulplayer.club/about/index.html</loc>
+    <loc>https://blog.paulplayer.club/about/author.html</loc>
     
-    <lastmod>2020-07-31T08:11:57.975Z</lastmod>
+    <lastmod>2020-08-17T00:55:40.983Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/about/author.html</loc>
+    <loc>https://blog.paulplayer.club/about/index.html</loc>
     
-    <lastmod>2020-07-31T08:11:57.974Z</lastmod>
+    <lastmod>2020-07-31T08:11:57.975Z</lastmod>
     
   </url>
   
@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/10/27/trip/0013-trip-poFengLing/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.941Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.paulplayer.club/2020/01/11/trip/0014-trip-chongQing/</loc>
     
     <lastmod>2020-06-04T13:53:33.941Z</lastmod>
@@ -51,14 +44,21 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2017/10/12/trip/0009-trip-daHaoHeShan/</loc>
+    <loc>https://blog.paulplayer.club/2019/10/27/trip/0013-trip-poFengLing/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.941Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.paulplayer.club/2017/05/18/trip/0008-trip-siJi/</loc>
     
     <lastmod>2020-06-04T13:53:33.940Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2017/05/18/trip/0008-trip-siJi/</loc>
+    <loc>https://blog.paulplayer.club/2017/10/12/trip/0009-trip-daHaoHeShan/</loc>
     
     <lastmod>2020-06-04T13:53:33.940Z</lastmod>
     
@@ -79,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/12/12/trip/0006-trip-wuLuMuQi/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.939Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.paulplayer.club/2016/12/14/trip/0007-trip-kaShi/</loc>
     
     <lastmod>2020-06-04T13:53:33.939Z</lastmod>
@@ -93,9 +86,9 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/12/06/trip/0005-trip-xiAn/</loc>
+    <loc>https://blog.paulplayer.club/2016/12/12/trip/0006-trip-wuLuMuQi/</loc>
     
-    <lastmod>2020-06-04T13:53:33.938Z</lastmod>
+    <lastmod>2020-06-04T13:53:33.939Z</lastmod>
     
   </url>
   
@@ -107,9 +100,9 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2015/12/31/trip/0002-trip-biYeJi/</loc>
+    <loc>https://blog.paulplayer.club/2016/12/06/trip/0005-trip-xiAn/</loc>
     
-    <lastmod>2020-06-04T13:53:33.937Z</lastmod>
+    <lastmod>2020-06-04T13:53:33.938Z</lastmod>
     
   </url>
   
@@ -122,6 +115,13 @@
   
   <url>
     <loc>https://blog.paulplayer.club/2016/05/03/trip/0003-trip-chiFeng/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.paulplayer.club/2015/12/31/trip/0002-trip-biYeJi/</loc>
     
     <lastmod>2020-06-04T13:53:33.937Z</lastmod>
     
@@ -142,6 +142,13 @@
   </url>
   
   <url>
+    <loc>https://blog.paulplayer.club/2019/11/10/origin/0012-origin-erCiZeYe/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.935Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.paulplayer.club/2019/01/21/origin/0011-origin-kaiYuanSheQu/</loc>
     
     <lastmod>2020-06-04T13:53:33.935Z</lastmod>
@@ -152,20 +159,6 @@
     <loc>https://blog.paulplayer.club/2019/11/22/origin/0013-origin-chanPinSiWeiSanShiJiang/</loc>
     
     <lastmod>2020-06-04T13:53:33.935Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.paulplayer.club/2019/11/10/origin/0012-origin-erCiZeYe/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.935Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.paulplayer.club/2019/01/02/origin/0010-origin-logicAndScience/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.934Z</lastmod>
     
   </url>
   
@@ -184,6 +177,13 @@
   </url>
   
   <url>
+    <loc>https://blog.paulplayer.club/2019/01/02/origin/0010-origin-logicAndScience/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.934Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.paulplayer.club/2017/12/29/origin/0005-origin-icnLearning/</loc>
     
     <lastmod>2020-06-04T13:53:33.933Z</lastmod>
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2018/01/10/origin/0007-origin-toLearnBitcoin/</loc>
+    <loc>https://blog.paulplayer.club/2018/01/02/origin/0006-origin-cdnLearning/</loc>
     
     <lastmod>2020-06-04T13:53:33.933Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2018/01/02/origin/0006-origin-cdnLearning/</loc>
+    <loc>https://blog.paulplayer.club/2018/01/10/origin/0007-origin-toLearnBitcoin/</loc>
     
     <lastmod>2020-06-04T13:53:33.933Z</lastmod>
     
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2020/03/01/book/0038-book-yingXiao4/</loc>
+    <loc>https://blog.paulplayer.club/2020/01/18/book/0037-book-jiangJieShiZhuan/</loc>
     
     <lastmod>2020-06-04T13:53:33.929Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2020/01/18/book/0037-book-jiangJieShiZhuan/</loc>
+    <loc>https://blog.paulplayer.club/2020/03/01/book/0038-book-yingXiao4/</loc>
     
     <lastmod>2020-06-04T13:53:33.929Z</lastmod>
     
@@ -275,14 +275,14 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/12/21/book/0033-book-diErQuXianChuangXin/</loc>
+    <loc>https://blog.paulplayer.club/2019/12/08/book/0032-book-maozedongzhuan/</loc>
     
     <lastmod>2020-06-04T13:53:33.927Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/12/08/book/0032-book-maozedongzhuan/</loc>
+    <loc>https://blog.paulplayer.club/2019/12/21/book/0033-book-diErQuXianChuangXin/</loc>
     
     <lastmod>2020-06-04T13:53:33.927Z</lastmod>
     
@@ -310,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/11/17/book/0026-book-xinDingWei/</loc>
+    <loc>https://blog.paulplayer.club/2019/11/15/book/0025-book-shuJuChanPinJingLi/</loc>
     
     <lastmod>2020-06-04T13:53:33.925Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/11/15/book/0025-book-shuJuChanPinJingLi/</loc>
+    <loc>https://blog.paulplayer.club/2019/11/17/book/0026-book-xinDingWei/</loc>
     
     <lastmod>2020-06-04T13:53:33.925Z</lastmod>
     
@@ -331,6 +331,13 @@
   </url>
   
   <url>
+    <loc>https://blog.paulplayer.club/2019/05/01/book/0023-book-jiaoyixinlifenxi/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.924Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.paulplayer.club/2019/11/09/book/0024-book-renRenDouShiChanPinJingLi/</loc>
     
     <lastmod>2020-06-04T13:53:33.924Z</lastmod>
@@ -338,9 +345,9 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2019/05/01/book/0023-book-jiaoyixinlifenxi/</loc>
+    <loc>https://blog.paulplayer.club/2018/12/09/book/0021-book-zibeiyuchaoyue/</loc>
     
-    <lastmod>2020-06-04T13:53:33.924Z</lastmod>
+    <lastmod>2020-06-04T13:53:33.923Z</lastmod>
     
   </url>
   
@@ -359,20 +366,6 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2018/12/09/book/0021-book-zibeiyuchaoyue/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.923Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.paulplayer.club/2018/05/12/book/0018-book-shuiJiangZhuZaiShiJie/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.922Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.paulplayer.club/2018/03/10/book/0017-book-shikong/</loc>
     
     <lastmod>2020-06-04T13:53:33.922Z</lastmod>
@@ -381,6 +374,13 @@
   
   <url>
     <loc>https://blog.paulplayer.club/2018/09/19/book/0019-book-guoJiaWeiShenMeHuiShiBai/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.922Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.paulplayer.club/2018/05/12/book/0018-book-shuiJiangZhuZaiShiJie/</loc>
     
     <lastmod>2020-06-04T13:53:33.922Z</lastmod>
     
@@ -415,13 +415,6 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2017/10/04/book/0014-book-wuhezhizhong/</loc>
-    
-    <lastmod>2020-06-04T13:53:33.920Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.paulplayer.club/2017/09/26/book/0013-book-yifendouzheweiben/</loc>
     
     <lastmod>2020-06-04T13:53:33.920Z</lastmod>
@@ -429,14 +422,21 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/11/12/book/0010-book-ibmInternetOfThings/</loc>
+    <loc>https://blog.paulplayer.club/2017/10/04/book/0014-book-wuhezhizhong/</loc>
+    
+    <lastmod>2020-06-04T13:53:33.920Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.paulplayer.club/2016/10/26/book/0009-book-autonomikIndustrie4.0/</loc>
     
     <lastmod>2020-06-04T13:53:33.919Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/10/26/book/0009-book-autonomikIndustrie4.0/</loc>
+    <loc>https://blog.paulplayer.club/2016/11/12/book/0010-book-ibmInternetOfThings/</loc>
     
     <lastmod>2020-06-04T13:53:33.919Z</lastmod>
     
@@ -471,14 +471,14 @@
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/08/24/book/0004-book-gongJiZhiGaiGe/</loc>
+    <loc>https://blog.paulplayer.club/2016/08/27/book/0005-book-renGongZhiNeng/</loc>
     
     <lastmod>2020-06-04T13:53:33.917Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.paulplayer.club/2016/08/27/book/0005-book-renGongZhiNeng/</loc>
+    <loc>https://blog.paulplayer.club/2016/08/24/book/0004-book-gongJiZhiGaiGe/</loc>
     
     <lastmod>2020-06-04T13:53:33.917Z</lastmod>
     
