@@ -1,0 +1,21 @@
+name: syncToGitee
+on:
+  push:
+    branches:
+      - master
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/paulplayer'
+          dst: 'gitee/paulplayer'
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token:  ${{ secrets.GITEE_TOKEN }}
+          account_type: 'user'
+          static_list: 'paulplayer.github.io'
+          force_update: true
+          debug: true
+          timeout: '1h'
