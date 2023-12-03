@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0021-origin-huLianWangChuangYeXinDe/</loc>
+    <lastmod>2023-12-03</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0022-origin-shuJuZiChanZiBenHua/</loc>
+    <lastmod>2023-12-03</lastmod>
+  </url>
+  <url>
     <loc>https://paulplayer.com/zh-CN/trip/0018-trip-show-laKeMei/</loc>
+    <lastmod>2023-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/trip/0017-trip-show-chenAiLuoDing/</loc>
     <lastmod>2023-11-19</lastmod>
   </url>
   <url>
@@ -65,26 +77,6 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0069-book-ceLueChanPinJingLi/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0070-book-xinRuoPuTi/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0073-book-qiongChaLiBaoDian/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0001-origin-sleepAndWakeClassification/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
@@ -97,19 +89,15 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0005-origin-icnLearning/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0006-origin-cdnLearning/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0007-origin-toLearnBitcoin/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0005-origin-icnLearning/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0008-origin-whyNotRich/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0007-origin-toLearnBitcoin/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -121,15 +109,19 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0008-origin-whyNotRich/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0011-origin-kaiYuanSheQu/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0012-origin-erCiZeYe/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0013-origin-chanPinSiWeiSanShiJiang/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0013-origin-chanPinSiWeiSanShiJiang/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0012-origin-erCiZeYe/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -153,6 +145,26 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
+    <loc>https://paulplayer.com/zh-CN/book/0069-book-ceLueChanPinJingLi/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0070-book-xinRuoPuTi/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0073-book-qiongChaLiBaoDian/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
     <loc>https://paulplayer.com/zh-CN/trip/0001-trip-onTheRoad/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
@@ -162,6 +174,10 @@
   </url>
   <url>
     <loc>https://paulplayer.com/zh-CN/trip/0003-trip-chiFeng/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/trip/0004-trip-sangGenDaLai/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -178,10 +194,6 @@
   </url>
   <url>
     <loc>https://paulplayer.com/zh-CN/trip/0008-trip-siJi/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/trip/0004-trip-sangGenDaLai/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -217,10 +229,6 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/trip/0017-trip-show-chenAiLuoDing/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0004-origin-5GNet/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
@@ -234,10 +242,6 @@
   </url>
   <url>
     <loc>https://paulplayer.com/zh-CN/book/0001-book-reading/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -257,19 +261,19 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0008-book-redefineCreative/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0009-book-autonomikIndustrie4.0/</loc>
+    <loc>https://paulplayer.com/zh-CN/book/0010-book-ibmInternetOfThings/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0010-book-ibmInternetOfThings/</loc>
+    <loc>https://paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0009-book-autonomikIndustrie4.0/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -278,6 +282,10 @@
   </url>
   <url>
     <loc>https://paulplayer.com/zh-CN/book/0013-book-yifendouzheweiben/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -357,10 +365,6 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0034-book-yuanZe/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0035-book-nengLiXianJing/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
@@ -369,15 +373,19 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0038-book-yingXiao4/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
+    <loc>https://paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
     <loc>https://paulplayer.com/zh-CN/book/0039-book-dontMakeMeThink/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0034-book-yuanZe/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
@@ -453,10 +461,6 @@
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0058-book-pingTaiGeMing/</loc>
-    <lastmod>2023-11-18</lastmod>
-  </url>
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0059-book-yinBaoLiuXing/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
@@ -478,6 +482,10 @@
   </url>
   <url>
     <loc>https://paulplayer.com/zh-CN/book/0064-book-zengZhangHeiKe/</loc>
+    <lastmod>2023-11-18</lastmod>
+  </url>
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0058-book-pingTaiGeMing/</loc>
     <lastmod>2023-11-18</lastmod>
   </url>
   <url>

@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0021-origin-huLianWangChuangYeXinDe/</loc>
+    
+    <lastmod>2023-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0022-origin-shuJuZiChanZiBenHua/</loc>
+    
+    <lastmod>2023-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://paulplayer.com/zh-CN/trip/0018-trip-show-laKeMei/</loc>
+    
+    <lastmod>2023-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/trip/0017-trip-show-chenAiLuoDing/</loc>
     
     <lastmod>2023-11-19</lastmod>
     
@@ -146,51 +173,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0069-book-ceLueChanPinJingLi/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0070-book-xinRuoPuTi/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0073-book-qiongChaLiBaoDian/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0001-origin-sleepAndWakeClassification/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -218,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0005-origin-icnLearning/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0006-origin-cdnLearning/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -236,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0007-origin-toLearnBitcoin/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0005-origin-icnLearning/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -245,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0008-origin-whyNotRich/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0007-origin-toLearnBitcoin/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -272,6 +245,15 @@
   </url>
   
   <url>
+    <loc>https://paulplayer.com/zh-CN/origin/0008-origin-whyNotRich/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0011-origin-kaiYuanSheQu/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -281,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0012-origin-erCiZeYe/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0013-origin-chanPinSiWeiSanShiJiang/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -290,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/origin/0013-origin-chanPinSiWeiSanShiJiang/</loc>
+    <loc>https://paulplayer.com/zh-CN/origin/0012-origin-erCiZeYe/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -344,6 +326,51 @@
   </url>
   
   <url>
+    <loc>https://paulplayer.com/zh-CN/book/0069-book-ceLueChanPinJingLi/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0070-book-xinRuoPuTi/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0071-book-shuJuMiJiXingYingYongXiTongSheJi/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0073-book-qiongChaLiBaoDian/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://paulplayer.com/zh-CN/trip/0001-trip-onTheRoad/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -363,6 +390,15 @@
   
   <url>
     <loc>https://paulplayer.com/zh-CN/trip/0003-trip-chiFeng/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/trip/0004-trip-sangGenDaLai/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -399,15 +435,6 @@
   
   <url>
     <loc>https://paulplayer.com/zh-CN/trip/0008-trip-siJi/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/zh-CN/trip/0004-trip-sangGenDaLai/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -488,15 +515,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/trip/0017-trip-show-chenAiLuoDing/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/origin/0004-origin-5GNet/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -551,15 +569,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0003-book-longTail/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -596,15 +605,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0008-book-redefineCreative/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -614,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0009-book-autonomikIndustrie4.0/</loc>
+    <loc>https://paulplayer.com/zh-CN/book/0010-book-ibmInternetOfThings/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -623,7 +623,16 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0010-book-ibmInternetOfThings/</loc>
+    <loc>https://paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0009-book-autonomikIndustrie4.0/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -642,6 +651,15 @@
   
   <url>
     <loc>https://paulplayer.com/zh-CN/book/0013-book-yifendouzheweiben/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0002-book-chaoYueJinRong/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -821,15 +839,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0034-book-yuanZe/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0035-book-nengLiXianJing/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -848,15 +857,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0038-book-yingXiao4/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -866,7 +866,25 @@
   </url>
   
   <url>
+    <loc>https://paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://paulplayer.com/zh-CN/book/0039-book-dontMakeMeThink/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0034-book-yuanZe/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -1037,15 +1055,6 @@
   </url>
   
   <url>
-    <loc>https://paulplayer.com/zh-CN/book/0058-book-pingTaiGeMing/</loc>
-    
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://paulplayer.com/zh-CN/book/0059-book-yinBaoLiuXing/</loc>
     
     <lastmod>2023-11-18</lastmod>
@@ -1092,6 +1101,15 @@
   
   <url>
     <loc>https://paulplayer.com/zh-CN/book/0064-book-zengZhangHeiKe/</loc>
+    
+    <lastmod>2023-11-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/zh-CN/book/0058-book-pingTaiGeMing/</loc>
     
     <lastmod>2023-11-18</lastmod>
     
@@ -1156,7 +1174,7 @@
 
   <url>
     <loc>https://paulplayer.com/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1164,413 +1182,413 @@
   
   <url>
     <loc>https://paulplayer.com/tags/Reading/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Writing/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Traveling/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Theoretical/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Data/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Hightech/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Experience/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Feeling/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Skill/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Finacial-Knowledge/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Fintech/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Story/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Huawei/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Product/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Psychology/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Movie/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Humanity/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Economy/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/China/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Family/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Management/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Biography/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/History/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Start-Up/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/MarTech/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Sale/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/BlockChain/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Retail/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Business/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Tech/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/JD/</loc>
-    <lastmod>2023-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://paulplayer.com/tags/Reading-Business-Economy-Management/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Project/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Open-Source-Software/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/OSAHS/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Theoretical/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Statistic-Learning/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Machine-Learning/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/OpenWDA/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Network/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://paulplayer.com/tags/LifeStyle/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <loc>https://paulplayer.com/tags/Hightech/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://paulplayer.com/tags/Dairy/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <loc>https://paulplayer.com/tags/Fintech/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/xStorage/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Science/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Philosophy/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/LifeStyle/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Dairy/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Technology/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Code/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/OpenSource/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Product/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Profession/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Jobs/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Memory/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Data/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Skill/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Story/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Huawei/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Finacial-Knowledge/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Psychology/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Movie/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Humanity/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Economy/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/China/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Family/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Management/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Biography/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/History/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Start-Up/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/MarTech/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Sale/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/BlockChain/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Retail/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Business/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Tech/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/JD/</loc>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://paulplayer.com/tags/Reading-Business-Economy-Management/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Exotic/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/XinJiang/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Life/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/YunNan/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/BeiJing/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/ZhangYe/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Cloud-Computing/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/Big-Data/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/tags/HighTech/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1579,21 +1597,21 @@
   
   <url>
     <loc>https://paulplayer.com/categories/Read/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/categories/Origin/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://paulplayer.com/categories/Trip/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
