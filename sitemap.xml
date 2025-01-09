@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0015-book-zaixian/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0014-book-wuhezhizhong/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0014-book-wuhezhizhong/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0015-book-zaixian/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -227,6 +227,15 @@
   </url>
   
   <url>
+    <loc>https://www.paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0038-book-yingXiao4/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -237,15 +246,6 @@
   
   <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0039-book-dontMakeMeThink/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0037-book-jiangJieShiZhuan/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0043-book-chaoJiLianJie/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0042-book-quKuaiLianXinYongSheHui/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0042-book-quKuaiLianXinYongSheHui/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0043-book-chaoJiLianJie/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0052-book-jingDongPingTaiYunYingGongLue/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0053-book-caiGouYuGongYingLianGuanLi/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0053-book-caiGouYuGongYingLianGuanLi/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0052-book-jingDongPingTaiYunYingGongLue/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -479,15 +479,6 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0066-book-baoFa/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0065-book-daShuJuShiDai/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -497,7 +488,25 @@
   </url>
   
   <url>
+    <loc>https://www.paulplayer.com/zh-CN/book/0066-book-baoFa/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0067-book-tengXunZhuan/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.paulplayer.com/zh-CN/book/0068-book-duoMoXingSiWei/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -534,15 +543,6 @@
   
   <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0072-book-TongDianSmallData/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0068-book-duoMoXingSiWei/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -605,7 +605,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0080-book-playfulData/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0079-book-shuJuKeShiHua/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -614,7 +614,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0079-book-shuJuKeShiHua/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/book/0080-book-playfulData/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -830,6 +830,15 @@
   </url>
   
   <url>
+    <loc>https://www.paulplayer.com/zh-CN/origin/0020-origin-modernDataStack/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.paulplayer.com/zh-CN/origin/0019-origin-naiNaiDeZangLi/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -839,7 +848,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/origin/0020-origin-modernDataStack/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/origin/0021-origin-huLianWangChuangYeXinDe/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -858,15 +867,6 @@
   
   <url>
     <loc>https://www.paulplayer.com/zh-CN/trip/0001-trip-onTheRoad/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.paulplayer.com/zh-CN/origin/0021-origin-huLianWangChuangYeXinDe/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -938,6 +938,15 @@
   </url>
   
   <url>
+    <loc>https://www.paulplayer.com/zh-CN/trip/0009-trip-daHaoHeShan/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.paulplayer.com/zh-CN/trip/0010-trip-luGuHu/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -956,7 +965,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/trip/0013-trip-poFengLing/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/trip/0012-trip-guBeiShuiZhen/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -965,7 +974,7 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/zh-CN/trip/0012-trip-guBeiShuiZhen/</loc>
+    <loc>https://www.paulplayer.com/zh-CN/trip/0013-trip-poFengLing/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -984,15 +993,6 @@
   
   <url>
     <loc>https://www.paulplayer.com/zh-CN/trip/0015-trip-daXiBei/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.paulplayer.com/zh-CN/trip/0009-trip-daHaoHeShan/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -1136,6 +1136,15 @@
   </url>
   
   <url>
+    <loc>https://www.paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
+    
+    <lastmod>2024-04-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0008-book-redefineCreative/</loc>
     
     <lastmod>2024-04-19</lastmod>
@@ -1155,15 +1164,6 @@
   
   <url>
     <loc>https://www.paulplayer.com/zh-CN/book/0010-book-ibmInternetOfThings/</loc>
-    
-    <lastmod>2024-04-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.paulplayer.com/zh-CN/book/0007-book-pingFanDeShiJie/</loc>
     
     <lastmod>2024-04-19</lastmod>
     
@@ -1349,14 +1349,14 @@
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/tags/Retail/</loc>
+    <loc>https://www.paulplayer.com/tags/BlockChain/</loc>
     <lastmod>2025-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.paulplayer.com/tags/BlockChain/</loc>
+    <loc>https://www.paulplayer.com/tags/Retail/</loc>
     <lastmod>2025-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
