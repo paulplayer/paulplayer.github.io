@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Allow: /2015/
+Allow: /2016/
+Allow: /2017/
+Allow: /2018/
+Allow: /2019/
+Allow: /2020/
+Allow: /2021/
+Allow: /2022/
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /document/
+Allow: /gallery/
+Allow: /page/
+Allow: /tags/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/
+Disallow: /lib/
+Disallow: /libs/
+Disallow: /fonts/
+Disallow： /.github/
+
+Sitemap: https://paulplayer.com/sitemap.xml
+Sitemap: https://paulplayer.com/baidusitemap.xml
